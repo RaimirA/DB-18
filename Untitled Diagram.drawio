@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T22:07:27.652Z" agent="5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="1_hLR7Oq9rY4b6SeP2ZG" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T22:08:46.850Z" agent="5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RCLG8OgdpmZU61gsH_C1" version="13.7.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="643" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -40,6 +40,9 @@
         <mxCell id="1mSKIR92Y-aQqtQu9_Gj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1mSKIR92Y-aQqtQu9_Gj-11" target="1mSKIR92Y-aQqtQu9_Gj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nHrQPjdE3rthWCA7b9JA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1mSKIR92Y-aQqtQu9_Gj-11" target="nHrQPjdE3rthWCA7b9JA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1mSKIR92Y-aQqtQu9_Gj-11" value="Player" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="688" width="100" height="40" as="geometry" />
         </mxCell>
@@ -74,13 +77,20 @@
           <mxGeometry x="100" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1mSKIR92Y-aQqtQu9_Gj-26" value="Basketball_Camp" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="260" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1mSKIR92Y-aQqtQu9_Gj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1mSKIR92Y-aQqtQu9_Gj-27" target="1mSKIR92Y-aQqtQu9_Gj-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1mSKIR92Y-aQqtQu9_Gj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1mSKIR92Y-aQqtQu9_Gj-27" target="1mSKIR92Y-aQqtQu9_Gj-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHrQPjdE3rthWCA7b9JA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1mSKIR92Y-aQqtQu9_Gj-27" target="nHrQPjdE3rthWCA7b9JA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1mSKIR92Y-aQqtQu9_Gj-27" value="Game" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="497.71" width="100" height="40" as="geometry" />
@@ -117,6 +127,12 @@
         </mxCell>
         <mxCell id="nHrQPjdE3rthWCA7b9JA-3" value="(5,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nHrQPjdE3rthWCA7b9JA-4" value="Plays" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHrQPjdE3rthWCA7b9JA-7" value="(10,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="343.43" y="680" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
